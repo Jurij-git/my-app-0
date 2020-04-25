@@ -1,0 +1,13 @@
+.nav{
+    grid-area:n;
+    background-color: rebeccapurple;
+}
+
+.item{
+    color:white;
+}
+
+/*
+.item2{
+    color: gold;
+}*/
